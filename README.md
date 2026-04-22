@@ -143,23 +143,8 @@ services:
 
 ---
 
-## Prints do funcionamento
-
-> ⚠️ Adicione aqui os prints das evidências abaixo:
-
-### Pipeline CI/CD
-- Print do GitHub Actions com as etapas de build, teste e deploy executadas com sucesso
-
-### Aplicação rodando localmente
-- Print do terminal com `docker compose up --build` concluído
-- Print do `docker ps` mostrando os containers `mysql` e `api` ativos
-
 ### Swagger (documentação da API)
-- Print da tela do Swagger acessível em `http://localhost:8080/swagger-ui/index.html`
-
-### Deploy em Staging e Produção
-- Print ou link do ambiente de staging respondendo
-- Print ou link do ambiente de produção respondendo
+- `http://localhost:8080/swagger-ui/index.html`
 
 ---
 
